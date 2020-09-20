@@ -1,4 +1,4 @@
-# Quiz System using Python
+# Quiz System using Python by Sourav Ghosh
 print("Quiz System(Demo) Developed by Sourav Ghosh")
 
 print()
